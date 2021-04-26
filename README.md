@@ -6,14 +6,14 @@
 🛠️ IDEs/Editors 🛠️ </h3>
 <p align="center">
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" width="100x"/>
-<br><br><br>
+<br><br>
   ●●●
-<br><br><br>
+<br><br>
 <h6> 이 프로젝트는 김대리의 하루를 심화한 프로젝트인 미니게임천국 입니다.</br>구구단, 숫자 야구, 가위바위보, 끝말잇기를 java언어 기반 텍스트 게임으로 만들었습니다.</h6><br><br>
 <p align="center">
-<br><br>
+<br>
   ●●●
-<br><br>
+<br>
 <p>
 <h6> 숫자야구 <br>
 1. 컴퓨터는 0~9까지 임의의 세자리 수를 정한다.<br>
@@ -26,16 +26,16 @@
 ※ 임의의 숫자를 적을 때 모두 다른 숫자로 적어야한다.<br>
 ex) 554금지 (5가중복됨) </H6>
 <p align="center">
-<br><br>
+<br>
   ●●●
-<br><br>
+<br>
 <p>
 <h6> 구구단<br>
 1. 컴퓨터가 임의의 구구단을 내면 5문제를 맞춰야 합니다.<br>
 2. 2초 안에 문제를 풀지 못하거나 틀리면 게임은 끝나게 됩니다.<br>
 </h6>
 <p align="center">
-<br><br>
+<br>
   ●●●
-<br><br>
+<br>
 <p>
