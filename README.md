@@ -22,7 +22,7 @@ Ordered
 ※ 임의의 숫자를 적을 때 모두 다른 숫자로 적어야한다.<br>
 ex) 554금지 (5가중복됨) </H6>
 <p align="center">
-<br><br><br>
+<br><br>
   ●●●
-<br><br><br>
+<br><br>
 <p>
